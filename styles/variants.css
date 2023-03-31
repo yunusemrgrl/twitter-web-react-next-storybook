@@ -1,0 +1,13 @@
+:root {
+    --c-primary:#000;
+    --c-theme:#1D9BF0;
+    --c-text-color:#E7E9EA;
+    --c-text-color-10:rgba(231, 233, 234, 0.1);
+    --c-border-color:#2F3336;
+    --c-gray:#71767B;
+    --c-border-light-color:#536471;
+    --c-white:#FFFFFF;
+    --c-input-gray:#202327;
+    --c-dark-gray:#16181C;
+
+}
